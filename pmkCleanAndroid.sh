@@ -7,4 +7,5 @@ function cleanAndroidGen()
 
 #echo "Not cleaning anything!"
 cleanAndroidGen notifications/app/build
+cleanAndroidGen notifications/build
 cleanAndroidGen notifications/.gradle
